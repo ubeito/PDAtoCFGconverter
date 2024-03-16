@@ -1,3 +1,5 @@
+![](https://github.com/ubeito/biCREtools/blob/main/biCREdiagramEx1.png)
+
 # PDA to CFG converter
 
 This utility convert a matrix-styled pushdown automaton (**Automaton-based Normal Form**) to its corresponding context-free grammar (and **Grammar Transition Diagram**).
