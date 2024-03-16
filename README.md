@@ -1,4 +1,4 @@
-![](https://github.com/ubeito/biCREtools/blob/main/biCREdiagramEx1.png)
+![](https://github.com/ubeito/PDAtoCFGconverter/blob/main/PDAmtxs.png)
 
 # PDA to CFG converter
 
