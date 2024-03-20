@@ -9,5 +9,5 @@ This utility convert a matrix-styled pushdown automaton (**Automaton-based Norma
 3. Drop the saved file in textarea.
 4. Push Convert button.
 
-[^1]: Exercise 5.6 in the 1st edition of Hopcroft et.al. The language is described as $(1^n 0 1^n 0)^*$, where $n\ge 0$ can change at each repetition.
+[^1]: Exercise 5.6 in the 1st edition of Hopcroft et.al. Its language is described as $(1^n 0 1^n 0)^*$, where $n\ge 0$ can change at each repetition.
 
